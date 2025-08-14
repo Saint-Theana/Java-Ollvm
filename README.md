@@ -90,7 +90,7 @@ public class Main {
 ```
 
 ## 📋 Configuration Parameters
-
+## 📋 Add [this](https://github.com/Saint-Theana/Java-Ollvm/blob/main/ObfuscationConfig.java) to your application to use Configuration.
 | Parameter | Type | Default | Description |
 |-----------|------|---------|-------------|
 | `isEnabled` | boolean | true | Enable/disable obfuscation (class-level disables entire class) |
