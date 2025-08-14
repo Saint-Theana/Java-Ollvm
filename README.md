@@ -4,7 +4,7 @@
 [![Documentation](https://img.shields.io/badge/Documentation-Available-green)](https://www.jarguardpro.cn/doc.html)
 
 
-Read this in other languages: [English](README.md), [简体中文](README_ZH.md), [日本語](README_JP.md).
+Read this in other languages: [English](README.md), [简体中文](README_CN.md), [日本語](README_JP.md).
 
 
 ## 🔐 Overview
