@@ -1,7 +1,7 @@
 # JarGuard Pro - Professional Java/Jar Code Obfuscation Tool
 
-[![Website](https://img.shields.io/badge/Website-jarguardpro.cn-blue)](https://www.jarguardpro.cn/)
-[![Documentation](https://img.shields.io/badge/Documentation-Available-green)](https://www.jarguardpro.cn/doc.html)
+[![Website](https://img.shields.io/badge/Website-jarguardpro.cn-blue)](https://en.jarguardpro.cn/)
+[![Documentation](https://img.shields.io/badge/Documentation-Available-green)](https://en.jarguardpro.cn/doc.html)
 
 
 Read this in other languages: [English](README.md), [简体中文](README_CN.md), [日本語](README_JP.md).
