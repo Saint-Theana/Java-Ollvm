@@ -11,9 +11,9 @@ Read this in other languages: [English](README.md), [简体中文](README_CN.md)
 
 JarGuard Pro is a professional Java bytecode obfuscation tool that provides advanced protection for Java applications through sophisticated code transformation techniques. It helps protect your intellectual property and business secrets by making compiled bytecode extremely difficult to decompile and understand.
 
-**🌐 Official Website:** [https://www.jarguardpro.cn/](https://www.jarguardpro.cn/)
+**🌐 Official Website:** [https://en.jarguardpro.cn/](https://en.jarguardpro.cn/)
 
-**📖 Complete Documentation:** [https://www.jarguardpro.cn/doc.html](https://www.jarguardpro.cn/doc.html)
+**📖 Complete Documentation:** [https://en.jarguardpro.cn/doc.html](https://en.jarguardpro.cn/doc.html)
 
 ## ✨ Key Features
 
