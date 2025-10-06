@@ -140,7 +140,7 @@ JarGuard Pro follows a systematic approach:
 ## 📚 Resources
 
 - **🌐 Main Website**: [https://www.jarguardpro.cn/](https://www.jarguardpro.cn/)
-- **📖 Documentation**: [https://www.jarguardpro.cn/doc.html](https://www.jarguardpro.cn/doc.html/)
+- **📖 Documentation**: [https://www.jarguardpro.cn/doc.html](https://www.jarguardpro.cn/doc.html)
 - **💬 Support**: Contact through official website
 
 ## 🤝 Community
