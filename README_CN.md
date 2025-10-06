@@ -136,7 +136,7 @@ JarGuard Pro 遵循系统化的处理方式：
 ## 📚 相关资源
 
 - **🌐 官方网站**: [https://www.jarguardpro.cn/](https://www.jarguardpro.cn/)
-- **📖 使用文档**: [https://www.jarguardpro.cn/doc.html](https://www.jarguardpro.cn/doc.html/)
+- **📖 使用文档**: [https://www.jarguardpro.cn/doc.html](https://www.jarguardpro.cn/doc.html)
 - **💬 技术支持**: 通过官方网站联系
 
 ## 🤝 开发者社区
