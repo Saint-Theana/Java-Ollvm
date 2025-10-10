@@ -1,1 +1,1 @@
-com.github.**
+io.github.**
