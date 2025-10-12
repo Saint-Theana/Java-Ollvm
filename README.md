@@ -6,6 +6,9 @@
 
 Read this in other languages: [English](README.md), [简体中文](README_CN.md), [日本語](README_JP.md).
 
+## ⚠️ Warning
+In the JVM, there are size limitations for classes and methods. Obfuscation can cause method size to expand, which may result in classes or methods becoming too large. You can check the obfuscation log for prompts indicating that a specific method, after obfuscation, has become too large and cannot be written. Please exclude this method in the obfuscation rules or reduce the obfuscation complexity.
+
 
 ## 🔐 Overview
 
