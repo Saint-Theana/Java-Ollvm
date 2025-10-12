@@ -3,6 +3,11 @@
 [![官方网站](https://img.shields.io/badge/官方网站-jarguardpro.cn-blue)](https://www.jarguardpro.cn/)
 [![使用文档](https://img.shields.io/badge/使用文档-可用-green)](https://www.jarguardpro.cn/doc.html)
 
+## ⚠️ 警告
+在Jvm中，Class和Method有大小限制，混淆会让Method的体积膨胀，有可能导致Class或者Method体积过大，在混淆日志中可查看，提示某个方法Method Too Large。请在混淆规则中忽略掉这个方法，或者降低混淆复杂度。
+
+
+
 ## 🔐 产品概述
 
 JarGuard Pro 是一款专业的 Java 字节码混淆工具，通过先进的代码转换技术为 Java 应用程序提供高级保护。它能够保护您的知识产权和商业机密，让编译后的字节码极难被反编译和理解。
