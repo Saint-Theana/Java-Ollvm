@@ -61,6 +61,11 @@ public @interface ObfuscationConfig
 	//是否开启防止语句合并
 	//在混淆过程中不启用语句合并来达到最大混淆效果，能让分裂基础块效果更好，同时也会增加代码体积，
 	boolean isEnableNoMerge() default false;
+
+	//是否开启方法调用隐藏
+	//目前只支持静态方法以及实例方法调用隐藏
+	//将大幅度减慢方法执行效率
+	boolean isEnableReflection() default false;
 }
 
 
