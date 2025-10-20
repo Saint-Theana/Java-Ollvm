@@ -20,6 +20,7 @@ JarGuard Proは、高度なコード変換技術を通じてJavaアプリケー�
 - **文字列暗号化** - 文字列をバイト配列に変換し、`new String()`の直接呼び出しで従来の方法より解読困難
 - **命令置換** - 単純な数学演算を複雑な等価式に変換
 - **Switch Case拡張** - 到達不可能なブランチと偽コードを挿入して複雑性を増加
+- **メソッド呼び出しの隠蔽** - メソッド呼び出しを抽出し、リフレクション内に隠蔽します
 
 ### 🚀 JarGuard Proを選ぶ理由
 
@@ -107,6 +108,7 @@ public class Main {
 | `isEnableReference` | boolean | false | クラス間参照を有効 |
 | `isEnableSplit` | boolean | false | 基本ブロック分割で難読化強化 |
 | `isEnableNoMerge` | boolean | false | 文合併防止（コードサイズ増加） |
+| `isEnableReflection` | boolean | false | 一部のメソッド呼び出しをリフレクションで隠蔽するが、実行効率が大幅に低下する |
 
 ## 🔧 使用手順
 
