@@ -25,6 +25,7 @@ JarGuard Pro 是一款专业的 Java 字节码混淆工具，通过先进的代�
 - **字符串加密** - 将字符串转换为字节数组，使用 `new String()` 直接调用，比传统方法更难解密
 - **指令替换** - 将简单的数学运算转换为复杂的等价公式
 - **Switch 分支膨胀** - 插入无法到达的分支和虚假代码来增加复杂度
+- **方法调用隐藏** - 将方法调用抽出隐藏在反射中
 
 ### 🚀 选择 JarGuard Pro 的理由
 
@@ -112,6 +113,7 @@ public class Main {
 | `isEnableReference` | boolean | false | 开启跨类引用 |
 | `isEnableSplit` | boolean | false | 分裂基础块以增强混淆 |
 | `isEnableNoMerge` | boolean | false | 防止语句合并（增加代码体积） |
+| `isEnableReflection` | boolean | false | 隐藏方法调用（降低执行效率） |
 
 ## 🔧 使用说明
 
