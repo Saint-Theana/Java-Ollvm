@@ -27,6 +27,7 @@ JarGuard Pro is a professional Java bytecode obfuscation tool that provides adva
 - **String Encryption** - Converts strings to byte arrays with direct `new String()` calls, harder to decrypt than traditional methods
 - **Instruction Substitution** - Transforms simple mathematical operations into complex equivalent formulas
 - **Switch Case Expansion** - Inserts unreachable branches with fake or duplicated code to increase complexity
+- **Method Invocation Hiding** - Extracts and hides method calls within reflection
 
 ### 🚀 Why Choose JarGuard Pro?
 
@@ -114,6 +115,7 @@ public class Main {
 | `isEnableReference` | boolean | false | Enable cross-class references |
 | `isEnableSplit` | boolean | false | Split basic blocks for enhanced obfuscation |
 | `isEnableNoMerge` | boolean | false | Prevent statement merging (increases code size) |
+| `isEnableReflection` | boolean | false | hides part of method invocations in reflection, but significantly reduces execution efficiency |
 
 ## 🔧 Usage Instructions
 
