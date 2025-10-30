@@ -64,7 +64,7 @@ public @interface ObfuscationConfig
 
 	//是否开启方法调用隐藏
 	//目前只支持静态方法以及实例方法调用隐藏
-	//将大幅度减慢方法执行效率
+	//将大幅度降低方法执行效率
 	boolean isEnableReflection() default false;
 }
 
